@@ -57,3 +57,5 @@ Chrome window with steam login page will open. **LOGIN INTO STEAM FIRST!**
 - Buy stickers, cases, agents etc.
 ***
 
+-stame1: Working on making it search for specific stickers as a learning project.
+
